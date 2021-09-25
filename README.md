@@ -2,7 +2,7 @@
 - 👀 i’m interested in creating games
 - 🌱 i’m currently learning Python
 - 💞️ i’m looking to collaborate on making apps and learning code!
-- 📫 How to reach me: twitter- @ROSEHlPS
+- 📫 How to reach me: twitter- @SKYSHEARTS
 
 <!---
 ROSEHlPS/ROSEHlPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROSEHlPS
-- 👀 i’m interested in creating games
-- 🌱 i’m currently learning Python
+- 👀 Math-Computer Science at UC San Diego
+- 🌱 i’m currently learning Java
 - 💞️ i’m looking to collaborate on making apps and learning code!
 - 📫 How to reach me: twitter- @SKYSHEARTS
 

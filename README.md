@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ROSEHlPS
 - 👀 Math-Computer Science at UC San Diego
 - 🌱 i’m currently learning Java in school, and front-end development on the side
-- 💞️ i’m looking to collaborate on making apps and learning code!
-- 📫 How to reach me: twitter- @SKYSHEARTS
 
 - LINKEDIN: www.linkedin.com/in/caseytoy
 
